@@ -1,0 +1,12 @@
+img {
+    height: 100px;
+    width: auto;
+}
+
+.firstColumn {
+    font-weight: bold;
+}
+
+.redColor {
+    color: red !important; 
+}
