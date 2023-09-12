@@ -3,10 +3,11 @@ img {
     width: auto;
 }
 
-.firstColumn {
+/* .firstColumn {
     font-weight: bold;
-}
+} */
 
 .redColor {
     color: red !important; 
 }
+

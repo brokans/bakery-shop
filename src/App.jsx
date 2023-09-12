@@ -1,5 +1,6 @@
 import { Navigate, Route, Routes } from "react-router-dom";
 import "./App.css";
+import './global.css';
 import NavigationBar from "./components/NavigationBar";
 import Employees from "./pages/Employees";
 import Products from "./pages/Products";
